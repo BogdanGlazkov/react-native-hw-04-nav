@@ -47,7 +47,6 @@ const useRoute = (isAuth) => {
             display: "flex",
             height: 83,
             paddingTop: 9,
-            paddingBottom: 34,
             paddingHorizontal: 40,
           },
           null,
